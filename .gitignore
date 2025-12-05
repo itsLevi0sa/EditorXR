@@ -12,3 +12,11 @@ build.bat.meta
 .idea/
 .Editor
 upm-ci~
+
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
